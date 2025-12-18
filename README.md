@@ -36,7 +36,7 @@ This project allows users to upload a CSV file containing running data (date, pe
 
 ## Sample CSV + Instructions
 
-1. Download `sample-runners.csv` from repo
+1. Download `Public/sample-runners.csv` from repo
 2. Upload via dashboard
 3. Expected results:
    - Overall: 16 runs, avg 6.48 miles, min 3.8, max 10.2
